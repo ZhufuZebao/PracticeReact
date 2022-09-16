@@ -1,0 +1,13 @@
+.buttonDiv{
+    width: 856px;
+    margin-left: 80px;
+    display: flex;
+    justify-content: end;
+    margin-top: 35px;
+}
+@media screen and (max-width: 1274px) {
+    .buttonDiv{
+        width: 392px;
+        margin-top: 20px;
+    }
+}

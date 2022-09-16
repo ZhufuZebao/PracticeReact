@@ -1,0 +1,23 @@
+.tableTitle{
+    background-color:#F4F4F6;
+    color:#333
+}
+.checkBox{
+    color:#744DFE;
+}
+.tableRow:hover{
+    background-color: #F4F3FF;
+}
+.textCell{
+    color:#666666
+}
+.inputDiv{
+    padding:30px 30px 30px 50px;
+    display:flex;
+    justify-content:space-between
+}
+
+.inputFirstText{
+    color: #656D92;
+    line-height:2.1876em
+}
